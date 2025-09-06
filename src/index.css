@@ -1,0 +1,12 @@
+/* Tailwind directives removed until tailwind is installed to avoid editor warnings.
+    Restore these lines when tailwindcss is present:
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+*/
+
+html,
+body,
+#root {
+    height: 100%;
+}
